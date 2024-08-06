@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pt
+*.DS_Store
+venv/
+views/
+color/
+grey/
+view.py
+sam_any_2.py
+__*__/

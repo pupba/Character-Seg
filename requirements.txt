@@ -1,0 +1,5 @@
+gradio
+gradio-image-prompter
+dghs-imgutils
+pytest
+samv2 @ git+https://github.com/SauravMaheshkar/samv2.git
